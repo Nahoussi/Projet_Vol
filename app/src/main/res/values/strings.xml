@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RECHERCHE VOLS</string>
+    <string name="back">Retour</string>
+    <string name="search">Recherche</string>
+    <string name="depart">DEPART</string>
+    <string name="arrive">ARRIVER</string>
+    <string name="favorite">Ajouter les Favories</string>
+    <string name="flights_from">Vols de</string>
+    <string name="search_results">Résultats de la recherche</string>
+    <string name="favorite_routes">Itinéraires favoris</string>
+    <string name="no_favorite">Aucun itinéraire favori</string>
+    <string name="clear_search">Effacer la recherche</string>
+</resources>
